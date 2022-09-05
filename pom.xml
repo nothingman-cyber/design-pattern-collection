@@ -12,6 +12,7 @@
         <module>factory</module>
         <module>abstract-document</module>
         <module>abstract-factory</module>
+        <module>active-object</module>
     </modules>
 
     <properties>
