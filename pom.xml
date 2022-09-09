@@ -14,6 +14,9 @@
         <module>abstract-factory</module>
         <module>active-object</module>
         <module>adapter</module>
+        <module>bridge</module>
+        <module>builder</module>
+        <module>acyclic-visitor</module>
     </modules>
 
     <properties>
