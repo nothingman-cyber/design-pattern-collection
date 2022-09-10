@@ -10,9 +10,12 @@
         <module name="factory" />
         <module name="adapter" />
         <module name="active-object" />
+        <module name="composite" />
         <module name="builder" />
         <module name="acyclic-visitor" />
+        <module name="callback" />
         <module name="bridge" />
+        <module name="command" />
         <module name="abstract-document" />
         <module name="abstract-factory" />
       </profile>
