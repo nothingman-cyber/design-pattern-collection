@@ -13,7 +13,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        // 以一张机票为例，假设由(出发城市-到达城市)(出发时间-到达时间)(价格)
+        // 以一张机票为例，假设由(出发城市-到达城市)(出发时间-到达时间)(价格)构成
         var cityPairProperties = Map.of(
             Property.DEPARTURE_CITY.toString(), "Shanghai",
             Property.ARRIVAL_CITY.toString(), "Tokyo"

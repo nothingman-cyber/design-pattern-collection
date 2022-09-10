@@ -17,6 +17,9 @@
         <module>bridge</module>
         <module>builder</module>
         <module>acyclic-visitor</module>
+        <module>callback</module>
+        <module>command</module>
+        <module>composite</module>
     </modules>
 
     <properties>
