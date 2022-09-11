@@ -20,6 +20,10 @@
         <module>callback</module>
         <module>command</module>
         <module>composite</module>
+        <module>composite-entity</module>
+        <module>converter</module>
+        <module>decorator</module>
+        <module>delegation</module>
     </modules>
 
     <dependencyManagement>
